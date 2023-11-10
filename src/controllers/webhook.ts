@@ -2,16 +2,14 @@ import logger from 'jet-logger';
 import { Request, Response } from 'express';
 import { mongo } from '@src/services';
 import { IQuery } from '@src/models';
-
 /**
  * Receive webhook from Bright Data collector and insert the Query into Mongo
  */
 export async function webhook(req: Request, res: Response): Promise<Response> {
   const method = "brightData.webhook";
   const metadata = { method, body: req.body as IQuery[] };
-  const data = req.body as IQuery[];
-  // TODO Validate the data?
-  console.log("data----", data)
+  var data = req.body as IQuery[];
+  
   try {
     const result = await mongo.insert<IQuery>(data[0]);
 
