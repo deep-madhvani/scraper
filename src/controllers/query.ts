@@ -33,7 +33,7 @@ export async function getQuery(req: Request, res: Response): Promise<Response> {
     }
 
     competitors.forEach((competitor) => {
-      const competitorProducts = data.products.filter((product: { competitor: { toLowerCase: () => Competitors; }; }) => {
+      const competitorProducts = data.products.filter((product) => {
         return product.competitor.toLowerCase() === competitor;
       }).slice(0, Number(top) || 10);
 
