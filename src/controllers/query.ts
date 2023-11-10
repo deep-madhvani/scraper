@@ -1,4 +1,4 @@
-import { Request, Response } from 'express';
+import { Request, Response, query } from 'express';
 import { mongo } from '@src/services/MongoDB';
 import logger from 'jet-logger';
 import { IQuery, IProduct } from '@src/models';
