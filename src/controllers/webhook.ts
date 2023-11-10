@@ -10,7 +10,6 @@ export async function webhook(req: Request, res: Response): Promise<Response> {
   const method = "brightData.webhook";
   const metadata = { method, body: req.body as IQuery[] };
   const data = req.body as IQuery[];
-
   // TODO Validate the data?
 
   try {

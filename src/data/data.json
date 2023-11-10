@@ -1,0 +1,880 @@
+[
+  {
+    "products": [
+      {
+        "title": "Undefined Beauty R&R Sun Serum Tinted Mineral Broad Spectrum Sunscreen SPF 50 PA++++ infused with Niacinamide, Tremella, Raspberry Seed, 1.7oz",
+        "url": "https://www.amazon.com/Mineral-Spectrum-Niacinamide-Tremella-Raspberry/dp/B09L3F765B/ref=sr_1_1?keywords=undefined&qid=1699605249&sr=8-1",
+        "price": 27.98,
+        "image": "https://m.media-amazon.com/images/I/71rapNz9xBL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined",
+        "url": "https://www.amazon.com/Undefined-Evette-Rivera/dp/B0C1J7F35Z/ref=sr_1_2?keywords=undefined&qid=1699605249&sr=8-2",
+        "price": 13,
+        "image": "https://m.media-amazon.com/images/I/61I2twbXY-L._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined Beauty R&R Sun Creme Broad Spectrum SPF 50 Moisturizing Sunscreen with Ceramide, CoQ10, Niacinamide, Resveratrol, Licorice Root, Centella to hydrate, replenish, repair and protect dry and dehydrated skin",
+        "url": "https://www.amazon.com/Undefined-Moisturizing-Niacinamide-Resveratrol-dehydrated/dp/B0C9G34GJC/ref=sr_1_3?keywords=undefined&qid=1699605249&sr=8-3",
+        "price": 21.99,
+        "image": "https://m.media-amazon.com/images/I/91XKvUAbSYL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined Beauty R&R Night Serum in Oil infused with Bakuchiol",
+        "url": "https://www.amazon.com/Undefined-Beauty-Night-Serum-FZ/dp/B09323FP8P/ref=sr_1_4?keywords=undefined&qid=1699605249&sr=8-4",
+        "price": 25.79,
+        "image": "https://m.media-amazon.com/images/I/713ACQqIINL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined Beauty R&R Day Serum, Daily Brightening Serum infused with Vitamin C, Kojic Acid, Niacinamide, Alpha Arbutin, Licorice Root",
+        "url": "https://www.amazon.com/Undefined-Beauty-Day-Serum-FZ/dp/B09327Z9DM/ref=sr_1_5?keywords=undefined&qid=1699605249&sr=8-5",
+        "price": 27.99,
+        "image": "https://m.media-amazon.com/images/I/81vEBzLE4xL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined Beauty R&R Gel-Crème Fragrance-Free Moisturizer infused with Peptides, Ceramides, Niacinamide, Prickly Pear, Shea Butter",
+        "url": "https://www.amazon.com/Undefined-Beauty-Gel-Creme-FZ/dp/B09329B5KJ/ref=sr_1_6?keywords=undefined&qid=1699605249&sr=8-6",
+        "price": 25.98,
+        "image": "https://m.media-amazon.com/images/I/71g7ofH5NVL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined Beauty R&R Cleanser 8oz, Brightening & Balancing Gel Cleanser Infused with Niacinamide, Centella, Green Tea, Tremella Mushroom",
+        "url": "https://www.amazon.com/Undefined-Beauty-Cleanser-FZ/dp/B09326S7G2/ref=sr_1_7?keywords=undefined&qid=1699605249&sr=8-7",
+        "price": 23.99,
+        "image": "https://m.media-amazon.com/images/I/71DBT8ZC1NL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined Beauty R&R Mini Cleanser, 1 FZ",
+        "url": "https://www.amazon.com/Undefined-Beauty-Mini-Cleanser-OZ/dp/B09L3HF33C/ref=sr_1_8?keywords=undefined&qid=1699605249&sr=8-8",
+        "price": 12,
+        "image": "https://m.media-amazon.com/images/I/71KUeACEdFL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined Beauty R&R Mineral Mist Liquid Hydrator infused with Niacinamide, Sea Kelp, Tremella Mushroom, fine mist 3.4oz",
+        "url": "https://www.amazon.com/Undefned-Hydrator-Niacinamide-Tremella-Mushroom/dp/B0932F8C2C/ref=sr_1_9?keywords=undefined&qid=1699605249&sr=8-9",
+        "price": 21.99,
+        "image": "https://m.media-amazon.com/images/I/61qhJYQaoJL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "UNDEFINED: June 2020",
+        "url": "https://www.amazon.com/UNDEFINED-June-2020-Khai-Smith/dp/B08BWGWGBX/ref=sr_1_10?keywords=undefined&qid=1699605249&sr=8-10",
+        "price": 6.88,
+        "image": "https://m.media-amazon.com/images/I/71wymaxUvGL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined (The Elemental Saga Book 1)",
+        "url": "https://www.amazon.com/Undefined-Elemental-Saga-Book-1-ebook/dp/B07GSHZZB2/ref=sr_1_11?keywords=undefined&qid=1699605249&sr=8-11",
+        "price": 0,
+        "image": "https://m.media-amazon.com/images/I/81WZchnZ42L._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined Beauty R&R Scalp Serum to Revitalize, Nourish, Strengthen for healthy hair infused with clinincally proven Peptides, Rosemary, Ashwagandha, Saw Palmetto, Amla, Niacinamide",
+        "url": "https://www.amazon.com/Undefined-Revitalize-clinincally-Ashwagandha-Niacinamide/dp/B0CB76MY2Q/ref=sr_1_12?keywords=undefined&qid=1699605249&sr=8-12",
+        "price": 21.99,
+        "image": "https://m.media-amazon.com/images/I/81JwUcsFNjL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined",
+        "url": "https://www.amazon.com/Undefined-Shane-Rocheleau/dp/B01BWQDG1A/ref=sr_1_13?keywords=undefined&qid=1699605249&sr=8-13",
+        "image": "https://m.media-amazon.com/images/I/71O2L681YCL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined Beauty R&R Hydro Jelly Face + Eye Serum, Hydrating Firming Replenishing infused with Peptides, Hyaluronic Acid, Ashwagandha, Centella, Beta Glucan, Reishi for dry dehydrated skin",
+        "url": "https://www.amazon.com/Undefined-Replenishing-Hyaluronic-Ashwagandha-dehydrated/dp/B0C7VG5BDS/ref=sr_1_14?keywords=undefined&qid=1699605249&sr=8-14",
+        "price": 21.99,
+        "image": "https://m.media-amazon.com/images/I/71n7bOQQ--L._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Recovery Supplement by Shaw Strength, Oral Liquid Hyaluronic Acid (HA), Protects Joints and Muscles, Reduces Soreness Post Workout, 24 oz.",
+        "url": "https://www.amazon.com/Undefined-Nutrition-Recovery-Supplement-Strength-Hyaluronic/dp/B09ZP5GH5Q/ref=sr_1_15?keywords=undefined&qid=1699605249&sr=8-15",
+        "price": 39.99,
+        "image": "https://m.media-amazon.com/images/I/41b1I5AX7QL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined Beauty R&R Exfoliator 10% Acid Peel Treatment Mist to Smooth, Resurface and Unclog Pores, infused with Lactic Acid, Salicylic Acid, Kombucha, Niacinamide, Ginseng, Gluconolactone, 3.3oz",
+        "url": "https://www.amazon.com/Undefined-Beauty-Exfoliator-3-4-OZ/dp/B0931VMK2F/ref=sr_1_16?keywords=undefined&qid=1699605249&sr=8-16",
+        "price": 27.99,
+        "image": "https://m.media-amazon.com/images/I/71o63Q4GHKL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined",
+        "url": "https://www.amazon.com/Undefined-Madeleine-Rheinheimer/dp/1483458423/ref=sr_1_17?keywords=undefined&qid=1699605249&sr=8-17",
+        "price": 19.98,
+        "image": "https://m.media-amazon.com/images/I/710q0LoLsFL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined: More than the Sum of my Losses: A Birth Mom's Journey from Tragedy to Triumph!",
+        "url": "https://www.amazon.com/Undefined-Losses-Journey-Tragedy-Triumph-ebook/dp/B08KRQ6XHN/ref=sr_1_18?keywords=undefined&qid=1699605249&sr=8-18",
+        "price": 0,
+        "image": "https://m.media-amazon.com/images/I/8198IuL85iL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Gold Foil Face Gloss Gold Foil - undefined",
+        "url": "https://www.amazon.com/Gold-Foil-Face-Gloss-undefined/dp/B07DZWVMK5/ref=sr_1_19?keywords=undefined&qid=1699605249&sr=8-19",
+        "price": 14.99,
+        "image": "https://m.media-amazon.com/images/I/31V7dCWmafL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined: A Muslim-American Musical",
+        "url": "https://www.amazon.com/Undefined-Muslim-American-Musical-Keziah-John-Paul/dp/B07Q3B3JF9/ref=sr_1_20?keywords=undefined&qid=1699605249&sr=8-20",
+        "price": 2.99,
+        "image": "https://m.media-amazon.com/images/I/81pVaSRWzUL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "undefined (Renewed)",
+        "url": "https://www.amazon.com/Dell-Optiplex-3000-SFF-Desktop/dp/B0C5WVD6KW/ref=sr_1_21?keywords=undefined&qid=1699605249&sr=8-21",
+        "price": 1383.77,
+        "image": "https://m.media-amazon.com/images/I/71mW9Fne73L._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "UNDEFINED: A Journey from Syria to Europe as a Refugee",
+        "url": "https://www.amazon.com/UNDEFINED-Journey-Syria-Europe-Refugee-ebook/dp/B079GB1F14/ref=sr_1_22?keywords=undefined&qid=1699605249&sr=8-22",
+        "price": 0,
+        "image": "https://m.media-amazon.com/images/I/6156jd1Sr6L._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Colorful Gloss Balm 02 Cream of the crop top - undefined",
+        "url": "https://www.amazon.com/Colorful-Gloss-Balm-Cream-crop/dp/B07BFBZZ3J/ref=sr_1_23?keywords=undefined&qid=1699605249&sr=8-23",
+        "price": 16,
+        "image": "https://m.media-amazon.com/images/I/31o3INbrCYL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined",
+        "url": "https://www.amazon.com/Undefined-Shane-Rocheleau/dp/B0028RXZWS/ref=sr_1_24?keywords=undefined&qid=1699605249&sr=8-24",
+        "image": "https://m.media-amazon.com/images/I/41n2Pt8XeAL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "undefined, Speedy Turtles",
+        "url": "https://www.amazon.com/undefined-Speedy-Turtles/dp/B086BW2B6D/ref=sr_1_25?keywords=undefined&qid=1699605249&sr=8-25",
+        "price": 15.3,
+        "image": "https://m.media-amazon.com/images/I/51c6YtS8vzL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "UNDEFINED: MAY 2020",
+        "url": "https://www.amazon.com/UNDEFINED-MAY-2020-Khai-Smith/dp/B089CSZ5HF/ref=sr_1_26?keywords=undefined&qid=1699605249&sr=8-26",
+        "price": 10,
+        "image": "https://m.media-amazon.com/images/I/71YXAybyBfL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Blur + Set Matte Loose Setting Powder Translucent Deep - undefined",
+        "url": "https://www.amazon.com/Matte-Loose-Setting-Powder-Translucent/dp/B07GMWNYY8/ref=sr_1_27?keywords=undefined&qid=1699605249&sr=8-27",
+        "price": 24.99,
+        "image": "https://m.media-amazon.com/images/I/51FqU1HuVDL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined",
+        "url": "https://www.amazon.com/Undefined-Sylvie-Nathan-ebook/dp/B00XUXSGNM/ref=sr_1_28?keywords=undefined&qid=1699605249&sr=8-28",
+        "price": 0,
+        "image": "https://m.media-amazon.com/images/I/91x9SIJPY4L._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "All About Shadow 8-Pan Palette A Black Honey Affair - undefined",
+        "url": "https://www.amazon.com/About-Shadow-8-Pan-Palette-Affair/dp/B07DC8JSXF/ref=sr_1_29?keywords=undefined&qid=1699605249&sr=8-29",
+        "price": 45.97,
+        "image": "https://m.media-amazon.com/images/I/41RbM1oKx9L._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined: A Boundless Being",
+        "url": "https://www.amazon.com/Undefined-Boundless-Being-CYana-Edison/dp/1541109686/ref=sr_1_30?keywords=undefined&qid=1699605249&sr=8-30",
+        "price": 10,
+        "image": "https://m.media-amazon.com/images/I/715LIcELPBL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Colorful Gloss Balm 12 Girl on fire - undefined",
+        "url": "https://www.amazon.com/Colorful-Gloss-Balm-Girl-fire/dp/B07BFBKMS6/ref=sr_1_31?keywords=undefined&qid=1699605249&sr=8-31",
+        "price": 11.16,
+        "image": "https://m.media-amazon.com/images/I/31k+MYGDWwL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "undefined (Renewed)",
+        "url": "https://www.amazon.com/Dell-Optiplex-3000-SFF-Desktop/dp/B0C5XVRG23/ref=sr_1_32?keywords=undefined&qid=1699605249&sr=8-32",
+        "price": 1531.24,
+        "image": "https://m.media-amazon.com/images/I/71mW9Fne73L._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "UNDEFINED MUSIC",
+        "url": "https://www.amazon.com/UNDEFINED-MUSIC/dp/B08K5B9FQK/ref=sr_1_33?keywords=undefined&qid=1699605249&sr=8-33",
+        "price": 0,
+        "image": "https://m.media-amazon.com/images/I/61dVgXn3eiL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Simplicity SS9584OS UNDEFINED Stuffed Craft OS (One Size Only)",
+        "url": "https://www.amazon.com/Simplicity-SS9584OS-UNDEFINED-Stuffed-Craft/dp/B0B254G74J/ref=sr_1_34?keywords=undefined&qid=1699605249&sr=8-34",
+        "price": 8.24,
+        "image": "https://m.media-amazon.com/images/I/81EyP-sjpVL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Bizarre",
+        "url": "https://www.amazon.com/Bizarre-Richard-Schulman/dp/B017X1NGGI/ref=sr_1_35?keywords=undefined&qid=1699605249&sr=8-35",
+        "image": "https://m.media-amazon.com/images/I/81QJ8ft5rCL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Simplicity SS9583OS UNDEFINED Stuffed Craft OS (One Size Only)",
+        "url": "https://www.amazon.com/Simplicity-SS9583OS-UNDEFINED-Stuffed-Craft/dp/B0B254LKY6/ref=sr_1_36?keywords=undefined&qid=1699605249&sr=8-36",
+        "price": 8.24,
+        "image": "https://m.media-amazon.com/images/I/81v6Rf8Lh7L._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "undefined: undefined",
+        "url": "https://www.amazon.com/undefined-UAB-Kidkis/dp/179019976X/ref=sr_1_37?keywords=undefined&qid=1699605249&sr=8-37",
+        "price": 7.2,
+        "image": "https://m.media-amazon.com/images/I/51ES7HsyOHL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined: Shattering the False Reflections of Life",
+        "url": "https://www.amazon.com/Undefined-Shattering-False-Reflections-Life-ebook/dp/B078P9HRW3/ref=sr_1_38?keywords=undefined&qid=1699605249&sr=8-38",
+        "price": 0,
+        "image": "https://m.media-amazon.com/images/I/71juL0eSc0L._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Simplicity SS9585OS UNDEFINED Stuffed Craft OS (One Size Only)",
+        "url": "https://www.amazon.com/Simplicity-SS9585OS-UNDEFINED-Stuffed-Craft/dp/B0B2526TPV/ref=sr_1_39?keywords=undefined&qid=1699605249&sr=8-39",
+        "price": 10.92,
+        "image": "https://m.media-amazon.com/images/I/71QMDWBYVgL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "undefined: undefined",
+        "url": "https://www.amazon.com/undefined-UAB-Kidkis/dp/179020058X/ref=sr_1_40?keywords=undefined&qid=1699605249&sr=8-40",
+        "price": 7.2,
+        "image": "https://m.media-amazon.com/images/I/516ZVYBdO7L._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Klorane Dry Shampoos",
+        "url": "https://www.amazon.com/Klorane-Shampoo-Ultra-Gentle-Residue-Sulfate-Free/dp/B07SRFXWXQ/ref=sr_1_41?keywords=undefined&qid=1699605249&sr=8-41",
+        "price": 14.4,
+        "image": "https://m.media-amazon.com/images/I/51EhwZ1ez3L._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "McCall's Sewing Pattern M8233OS UNDEFINED Accessories",
+        "url": "https://www.amazon.com/McCalls-Sewing-Pattern-M8233-Zipper/dp/B09GHW9KYL/ref=sr_1_42?keywords=undefined&qid=1699605249&sr=8-42",
+        "price": 9.74,
+        "image": "https://m.media-amazon.com/images/I/81HfIwe5iPL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Super7 Teenage Mutant Ninja Turtles: Bebop Ultimates Action Figure,Multicolor",
+        "url": "https://www.amazon.com/Super7-Teenage-Mutant-Ninja-Turtles/dp/B084L4PTLC/ref=sr_1_43?keywords=undefined&qid=1699605249&sr=8-43",
+        "price": 31.99,
+        "image": "https://m.media-amazon.com/images/I/71Nwwra2CvL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "undefined: undefined",
+        "url": "https://www.amazon.com/undefined-UAB-Kidkis/dp/1790200474/ref=sr_1_44?keywords=undefined&qid=1699605249&sr=8-44",
+        "price": 7.2,
+        "image": "https://m.media-amazon.com/images/I/61k48QeqPQL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Simplicity UNDEFINED Doll Clothes Sewing Pattern, Multicolor 2 Piece",
+        "url": "https://www.amazon.com/Simplicity-UNDEFINED-Clothes-Pattern-Multicolor/dp/B0BVR5MNS6/ref=sr_1_45?keywords=undefined&qid=1699605249&sr=8-45",
+        "price": 10.23,
+        "image": "https://m.media-amazon.com/images/I/71mBXkBzj3L._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "McCall's UNDEFINED Apron, Multicolor 2 Piece",
+        "url": "https://www.amazon.com/McCalls-UNDEFINED-Apron-Multicolor-Piece/dp/B0BGJC941X/ref=sr_1_46?keywords=undefined&qid=1699605249&sr=8-46",
+        "price": 14.2,
+        "image": "https://m.media-amazon.com/images/I/71sVm4ZeqpL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Jezebeth",
+        "url": "https://www.amazon.com/Jezebeth-Damien-Dante/dp/B006T4IJFO/ref=sr_1_47?keywords=undefined&qid=1699605249&sr=8-47",
+        "image": "https://m.media-amazon.com/images/I/71OpLOqSDAL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Simplicity UNDEFINED Doll Clothes Sewing Pattern, Multicolor 2 Piece",
+        "url": "https://www.amazon.com/Simplicity-UNDEFINED-Clothes-Pattern-Multicolor/dp/B0BVR63QDQ/ref=sr_1_48?keywords=undefined&qid=1699605249&sr=8-48",
+        "price": 10.9,
+        "image": "https://m.media-amazon.com/images/I/81gA+GIVk8L._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined Beauty R&R Exfoliator 10% Acid Peel Treatment Mist to Smooth, Resurface and Unclog Pores, infused with Lactic Acid, Salicylic Acid, Kombucha, Niacinamide, Ginseng, Gluconolactone, 3.3oz",
+        "url": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNTg0NDA5MjU0MjQ2Njc4OjE2OTk2MDUyNDk6c3BfYnRmOjMwMDA2Mjk5ODMzMzEwMjo6MDo6&url=%2FUndefined-Beauty-Exfoliator-3-4-OZ%2Fdp%2FB0931VMK2F%2Fref%3Dsr_1_49_sspa%3Fkeywords%3Dundefined%26qid%3D1699605249%26sr%3D8-49-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+        "price": 27.99,
+        "image": "https://m.media-amazon.com/images/I/71o63Q4GHKL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined Beauty R&R Day Serum, Daily Brightening Serum infused with Vitamin C, Kojic Acid, Niacinamide, Alpha Arbutin, Licorice Root",
+        "url": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNTg0NDA5MjU0MjQ2Njc4OjE2OTk2MDUyNDk6c3BfYnRmOjIwMDE1OTQyNjA1ODQ5ODo6MDo6&url=%2FUndefined-Beauty-Day-Serum-FZ%2Fdp%2FB09327Z9DM%2Fref%3Dsr_1_50_sspa%3Fkeywords%3Dundefined%26qid%3D1699605249%26sr%3D8-50-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+        "price": 27.99,
+        "image": "https://m.media-amazon.com/images/I/81vEBzLE4xL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined Beauty R&R Sun Serum Tinted Mineral Broad Spectrum Sunscreen SPF 50 PA++++ infused with Niacinamide, Tremella, Raspberry Seed, 1.7oz",
+        "url": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNTg0NDA5MjU0MjQ2Njc4OjE2OTk2MDUyNDk6c3BfYnRmOjIwMDE1OTQyNjA1ODg5ODo6MDo6&url=%2FMineral-Spectrum-Niacinamide-Tremella-Raspberry%2Fdp%2FB09L3F765B%2Fref%3Dsr_1_51_sspa%3Fkeywords%3Dundefined%26qid%3D1699605249%26sr%3D8-51-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+        "price": 27.98,
+        "image": "https://m.media-amazon.com/images/I/71rapNz9xBL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined Beauty R&R Sun Creme Broad Spectrum SPF 50 Moisturizing Sunscreen with Ceramide, CoQ10, Niacinamide, Resveratrol, Licorice Root, Centella to hydrate, replenish, repair and protect dry and dehydrated skin",
+        "url": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNTg0NDA5MjU0MjQ2Njc4OjE2OTk2MDUyNDk6c3BfYnRmOjMwMDA2Mjk5ODMzMjkwMjo6MDo6&url=%2FUndefined-Moisturizing-Niacinamide-Resveratrol-dehydrated%2Fdp%2FB0C9G34GJC%2Fref%3Dsr_1_52_sspa%3Fkeywords%3Dundefined%26qid%3D1699605249%26sr%3D8-52-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+        "price": 21.99,
+        "image": "https://m.media-amazon.com/images/I/91XKvUAbSYL._AC_UL320_.jpg",
+        "competitor": "Amazon"
+      },
+      {
+        "title": "Undefined R&R Night Serum - 1 fl oz",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 9.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/bAQAAOSwxhtkrA4n/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "sony ps2 games YOU PICK all tested  & works you pick game",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 8.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/fB4AAOSwQuhlCxhz/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Undefined R&R Day Serum - 1 fl oz",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 9.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/3kYAAOSwB01kbhGY/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Undefined R&R Sun Serum - SPF 50 - 1.7 fl oz",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 16.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/dLwAAOSwzldk43VF/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "NINTENDO WII GAME LOT YOU PICK CHOOSE BUY 2 GET 1 50% OFF GAMES PLAY TESTED LOT2",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 2.98,
+        "image": "https://i.ebayimg.com/thumbs/images/g/n5cAAOSwvydiCXZH/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Undefined R&R Gel-Crème Moisturizer - 1 fl oz",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 11.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/n2EAAOSwhs5kiHO5/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Undefined R&R Cleanser - 8 fl oz",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 17.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/4O8AAOSwHJhktUpr/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "sony playstation 1 games YOU PICK GAME all tested and work great",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 9.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/I00AAOSwlhRlCxNr/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "New ListingCall of Duty: Black Ops - (Xbox 360, 2011) Great Condition Disc Only",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 9.97,
+        "image": "https://i.ebayimg.com/thumbs/images/g/CyAAAOSwa8tlTdSG/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "New ListingMaze Craze: A Game of Cops and Robbers (Atari 2600, 1978) Complete CIB Tested",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 0.01,
+        "image": "https://i.ebayimg.com/thumbs/images/g/KMcAAOSwo0plPFwg/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Putt-Putt Saves the Zoo - Video Game - VERY GOOD",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 7.77,
+        "image": "https://i.ebayimg.com/thumbs/images/g/UzMAAOSwyt9j8FRk/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Mavis Beacon Teaches Typing Version 18 (Mac and Windows) Sealed Free Shipping",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 13.5,
+        "image": "https://i.ebayimg.com/thumbs/images/g/N-MAAOSwQ51hzpcN/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Theme Park Roller Coaster  (Sony PlayStation 2, 2000) PS2 Complete",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 7.09,
+        "image": "https://i.ebayimg.com/thumbs/images/g/Ni8AAOSwTjRfQXNC/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Undefined R&R Gel-Crème Moisturizer - 1 fl oz",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 13.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/wqsAAOSwnsxktUn5/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "(x4) SPEAKERS - USED SKAR AUDIO TX65 6.5\" 200W MAX POWER CAR SPEAKERS (2 PA",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 74.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/ENQAAOSwZ1RjI6kQ/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "New ListingMunchies VHS 1987 MGM SEALED BRAND NEW! Horror!",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 30,
+        "image": "https://i.ebayimg.com/thumbs/images/g/QdQAAOSwKkdlLdmK/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "New ListingMicrosoft Flight Simulator X (PC, 2006) Plane Game Complete 2 Disc New Sealed ~",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 46.82,
+        "image": "https://i.ebayimg.com/thumbs/images/g/iggAAOSw9tFkVBM5/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "CHECKERED FLAG Atari Jaguar NEW Factory Sealed",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 39.95,
+        "image": "https://i.ebayimg.com/thumbs/images/g/eGIAAOSwTR9dmo47/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Kwirk Nintendo Game Boy",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 8.47,
+        "image": "https://i.ebayimg.com/thumbs/images/g/4QgAAOSwc8Vkih6M/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "New ListingAdventure Island II: Aliens in Paradise Nintendo Game Boy Authentic Tested Case",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 29.95,
+        "image": "https://i.ebayimg.com/thumbs/images/g/JDQAAOSwOzJlTdfr/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Sega Saturn Rockman Mega Man X3 SS Game Soft From Japan",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 38.33,
+        "image": "https://i.ebayimg.com/thumbs/images/g/JEEAAOSw1HVfMYC0/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "New Listing4-in-1 Fun Pak (Nintendo Game Boy) - Box Only",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 8.5,
+        "image": "https://i.ebayimg.com/thumbs/images/g/2XgAAOSwa8tlTbXO/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Sega Saturn Video Games Lot Japanese SS Japan JP 20231110 UP",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 3.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/RI4AAOSwSWVkSdJ9/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "New ListingEmma goes to the Mountains (Nintendo DS) CIB RARE",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 5.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/2soAAOSwWiRi8xRs/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "LEGO Star Wars: The Complete Saga (Nintendo DS, 2007) - CIB - Tested/Works!",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 6.5,
+        "image": "https://i.ebayimg.com/thumbs/images/g/DIIAAOSwix9lLAYL/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "New ListingOregon Trail Pioneer Adventures 3rd Edition Limited Wooden Box Windows/Mac",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 19.37,
+        "image": "https://i.ebayimg.com/thumbs/images/g/jBEAAOSwpmJlLJ9z/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Kurohyou Ryu ga Gotoku Shinshou Yakuza PSP Japanese Version US Shipper",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 19.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/OREAAOSwDARiWqdL/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "New ListingNemesis Nintendo Game Boy Original *Authentic*",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 13.9,
+        "image": "https://i.ebayimg.com/thumbs/images/g/HpUAAOSwd31lTcjX/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Crep Protect Cure The Ultimate Shoe Cleaning Travel Kit",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 15.5,
+        "image": "https://i.ebayimg.com/thumbs/images/g/GI4AAOSw~fpk3yL~/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Sexy Women Sheer Mesh See Through Blouse Long Sleeve Clubwear Lingerie US Seller",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 9.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/DcwAAOSwx21hn5dM/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "SEGA RALLY 2006 + CHAMPIONSHIP BOX PS2 Sega Sony Playstation 2 USED Japan F/S",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 64.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/FGcAAOSwYkVkiGXx/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Playstation 2 (PS2) N-Z Games - Make Your Own Gaming Lot 🔥 Buy 4 Get 1 Free! 🔥",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 3.39,
+        "image": "https://i.ebayimg.com/thumbs/images/g/nbsAAOSwmSlhyK63/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Bases Loaded Nintendo Game Boy",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 1.97,
+        "image": "https://i.ebayimg.com/thumbs/images/g/P~wAAOSw-lxk6PVT/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "PS2 Shin Megami Tensei 3 III Nocturne DELUXE Pack Limited Incense ATLUS Japan",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 134.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/qJQAAOSwmwZlTNyA/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "New ListingZuma ~ Brand New (CD-PC Video Game) \"FREE SHIPPING\"",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 19.95,
+        "image": "https://i.ebayimg.com/thumbs/images/g/U-wAAOSw7TFlTYLC/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Star Wars: The Old Republic 60-Day Pre-paid (PC, 2011)",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 18.95,
+        "image": "https://i.ebayimg.com/thumbs/images/g/x~4AAOxyGxxSJJ~V/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "PS2 Kingdom Hearts Final Mix Platinum Limited Edition Japan Game PlayStation 2",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 76.65,
+        "image": "https://i.ebayimg.com/thumbs/images/g/Sc4AAOSwM~RlTcXP/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "New ListingKingdom Hearts Dream Drop Distance -- Limited Edition (Nintendo 3DS)",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 14.5,
+        "image": "https://i.ebayimg.com/thumbs/images/g/PZMAAOSw~KJlILGC/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "PSP USE Doko Demo Issho: Let's Gakkou! PlayStation Portale japanese games",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 20,
+        "image": "https://i.ebayimg.com/thumbs/images/g/jdsAAOSwy2RlN8qr/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "New ListingReal Life Games Veterinarian Vet Emergency Legacy Interactive Computer 2001 pc",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 9.7,
+        "image": "https://i.ebayimg.com/thumbs/images/g/hJUAAOSwYLNiAII7/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "New ListingCSI: Crime Scene Investigation Dark Motives  Video Game tested working PC win",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 15.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/PckAAOSw1VBlAcSC/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Microsoft Links (Pocket PC)",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 16.95,
+        "image": "https://i.ebayimg.com/thumbs/images/g/5rYAAOSwVllkxWRM/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "New ListingMusic Scene It?  The DVD Game Of Premier Music Trivia With Songs And Video Clips",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 15.95,
+        "image": "https://i.ebayimg.com/thumbs/images/g/03sAAOSwWUFlTWSn/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "PS2 Bakumatsu Roman The Last Blade 1 & 2 PlayStation 2 Japan",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 36.55,
+        "image": "https://i.ebayimg.com/thumbs/images/g/4kgAAOSwehZfSu-9/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Shadow of Memories PS2 Konami Sony Playstation 2 From Japan",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 7.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/1d4AAOSwAxZjYl7j/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Samurai Western Katsugeki Samuraidou PlayStation2 PS2 JAPAN ver Need Japan conso",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 15.07,
+        "image": "https://i.ebayimg.com/thumbs/images/g/mcoAAOSwrrxlBWaq/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Wii Active Personal Trainer (Nintendo Wii)",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 6.55,
+        "image": "https://i.ebayimg.com/thumbs/images/g/WccAAOSwn1plQ~9J/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "LUNAR SILVER STAR STORY Sega Saturn ccc ss",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 10,
+        "image": "https://i.ebayimg.com/thumbs/images/g/mQwAAOSwXIheIWPU/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "New ListingMinna no Golf Portable 2 - PSP - Japanese Import - Complete In Box - UCJS10075",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 17,
+        "image": "https://i.ebayimg.com/thumbs/images/g/hbsAAOSwn-xlTYD5/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Ratchet & Clank 3: Up your Arsenal (Sony PlayStation 2, 2004) With Manual",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 15.95,
+        "image": "https://i.ebayimg.com/thumbs/images/g/fcgAAOSwhDNk9OjH/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "IGT Slots Lucky Larry's Lobstermania PC/Mac Brand New Casino Slot Machine Game",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 10,
+        "image": "https://i.ebayimg.com/thumbs/images/g/-CIAAOSwASRcv-AC/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "PS2 PlayStation 2 Resident Evil Biohazard Outbreak Japanese version Video Game",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 16.98,
+        "image": "https://i.ebayimg.com/thumbs/images/g/kq0AAOSw1hdjUOjz/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "New ListingSCENE IT? JR. DVD Trivia Board Game By MATTEL Brand New & Sealed Box 2004",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 16.97,
+        "image": "https://i.ebayimg.com/thumbs/images/g/tUwAAOSwykRipebX/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "New ListingLemony Snicket's A Series of Unfortunate events ps 2 Metal of honor frontline",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 6,
+        "image": "https://i.ebayimg.com/thumbs/images/g/XXcAAOSwRvxjRg1O/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "PSP Ys vs Sora no Kiseki PlayStation Portable Game JAPAN ver",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 20.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/rugAAOSwOEFlJBJ-/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Pocket Monsters Red Pokemon Nintendo Game Boy 1996 Japanese Version Battery OK",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 8.6,
+        "image": "https://i.ebayimg.com/thumbs/images/g/tOgAAOSwZf1lMdRV/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Golf 36 Great Holes Starring Fred Couples (SEGA Genesis 32X) Cart in Box",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 14.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/ansAAOSwxE1lTCHC/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Lego Star Wars The Complete Saga Nintendo DS Lite DSi XL 3DS 2DS w/Case & Manual",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 17,
+        "image": "https://i.ebayimg.com/thumbs/images/g/uGsAAOSwlQ5bWt8y/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "PS2 rockman x8 Sony PlayStation 2 Tested Used Japanese Games Japanese ver w/box",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 19.67,
+        "image": "https://i.ebayimg.com/thumbs/images/g/ktIAAOSwQyllPfH7/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Spy Hunter - Sony PlayStation 2 PS2  both games",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 4.49,
+        "image": "https://i.ebayimg.com/thumbs/images/g/b-wAAOSwZRJk7LgW/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Used Kidou Senshi Gundam/ Senjou no Kizuna PSP Portable PlayStation Portale S/F",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 14.98,
+        "image": "https://i.ebayimg.com/thumbs/images/g/vf8AAOSwFOpkW17I/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "NHL 07 (Sony PlayStation 2, 2006) PS2 | No Manual | GOOD CONDITION",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 6.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/vkgAAOSwnkdjvhk1/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Tennis (Nintendo Game Boy) Cart Only TESTED NICE",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 7.26,
+        "image": "https://i.ebayimg.com/thumbs/images/g/~x8AAOSwhf9k9OCg/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "PlayStation 2 Games - Build a Bundle - Multi Listing: N to Z",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 3.98,
+        "image": "https://i.ebayimg.com/thumbs/images/g/YgoAAOSw2F5f9Yfx/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Sim Safari~PC & Mac~Vintage~Maxis~CD-ROM Disc Only",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 7.95,
+        "image": "https://i.ebayimg.com/thumbs/images/g/I0MAAOSwX51kY9jv/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Weight lifting Gloves Training Gym Gloves Best Workout Gloves TEGUS GEAR",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 9.99,
+        "image": "https://i.ebayimg.com/thumbs/images/g/rJwAAOSwH9FjRTfV/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "2\" Clamp On Tractor Hitch Bucket Trailer Receiver  Ball Mount Tow Attachment",
+        "url": "https://www.ebay.com/sch/i.html?_nkw=undefined",
+        "price": 35.5,
+        "image": "https://i.ebayimg.com/thumbs/images/g/6kAAAOSw5GNhGyZP/s-l300.jpg",
+        "competitor": "ebay"
+      },
+      {
+        "title": "Battery Replacement for Verizon Hotspot 890L Jetpack 4G LTE Jetpack 890L 4G LTE undefined Jetpack 890L Li3717T42P3h654458",
+        "url": "https://www.newegg.com/p/pl?d=undefined",
+        "price": 17.21,
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ATAUD2308280G2T634F.jpg",
+        "competitor": "newegg"
+      },
+      {
+        "title": "(6 feet)Mini HDMI to HDMI cable Tablet projector HD cable HDMI high-definition TV connection cable",
+        "url": "https://www.newegg.com/p/pl?d=undefined",
+        "price": 7.99,
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/ARZXS23060113M98IBD.jpg",
+        "competitor": "newegg"
+      },
+      {
+        "title": "OUIDAD Advanced Climate Control Heat & Humidity Gel, 33.8 Fl oz",
+        "url": "https://www.newegg.com/p/pl?d=undefined",
+        "price": 44.45,
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A17PD2210180PZY8ZC7.jpg",
+        "competitor": "newegg"
+      },
+      {
+        "title": "Frizz-Ease Dream Curls Curl Perfecting Spray - 6.7 oz",
+        "url": "https://www.newegg.com/p/pl?d=undefined",
+        "price": 18.66,
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A636_1_20200305215505354.jpg",
+        "competitor": "newegg"
+      },
+      {
+        "title": "AJA 3G-AM-XLR 3G-SDI 8-Channel AES Embedder/Disembedder with XLR Breakout Cable",
+        "url": "https://www.newegg.com/p/pl?d=undefined",
+        "price": 909,
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4P0D2212020QY98WC1.jpg",
+        "competitor": "newegg"
+      },
+      {
+        "title": "Refurbished Dell Latitude E7440 Webcam Camera 7YYTT",
+        "url": "https://www.newegg.com/p/pl?d=undefined",
+        "price": 8.99,
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/AG6C_132084828316498447NjNOjHRJJn.jpg",
+        "competitor": "newegg"
+      }
+    ],
+    "input": {},
+    "warning": "Validation warnings:\nproducts[12].price: discarded corrupted value NaN (expected type: number)\nproducts[23].price: discarded corrupted value NaN (expected type: number)\nproducts[34].price: discarded corrupted value NaN (expected type: number)\nproducts[46].price: discarded corrupted value NaN (expected type: number)",
+    "warning_code": "validation"
+  }
+]
