@@ -1,9 +1,15 @@
-import { Request, Response } from 'express';
+import { Request, Response, query } from 'express';
 import { mongo } from '@src/services/MongoDB';
 import logger from 'jet-logger';
-import { IProduct } from '@src/models';
+import { IQuery, IProduct } from '@src/models';
 
+enum Competitors {
+  AMAZON = "amazon",
+  EBAY = "ebay",
+  NEWEGG = 'newegg',
+}
 
+const competitors = [Competitors.AMAZON, Competitors.EBAY, Competitors.NEWEGG];
 
 /**
  * Given a keyword, search the db for a Query object. If found, return data.
@@ -11,7 +17,7 @@ import { IProduct } from '@src/models';
 export async function getQuery(req: Request, res: Response): Promise<Response> {
   const method = "brightData.getQuery";
   const metadata = { method, queryParam: req.query as { keyword: string, top?: string } };
-  const { keyword } = req.query as { keyword: string };
+  const { keyword, top } = req.query as { keyword: string, top?: string };
   const truncatedProducts: IProduct[] = [];
 
   if (!keyword) {
@@ -22,21 +28,18 @@ export async function getQuery(req: Request, res: Response): Promise<Response> {
 
   try {
 
-    const query = { 'input.keyword': { $type: "string" } };
-
-
-    const data = await mongo.find({ query });
+    const data = await mongo.find<IQuery>({ keyword });
     if (!data) {
       return res.status(200).json({ success: false });
     }
 
-    // competitors.forEach((competitor) => {
-    //   const competitorProducts = data.products.filter((product) => {
-    //     return product.competitor.toLowerCase() === competitor;
-    //   }).slice(0, Number(top) || 10);
+    competitors.forEach((competitor) => {
+      const competitorProducts = data.products.filter((product) => {
+        return product.competitor.toLowerCase() === competitor;
+      }).slice(0, Number(top) || 10);
 
-    //   truncatedProducts.push(...competitorProducts);
-    // });
+      truncatedProducts.push(...competitorProducts);
+    });
 
     const returnQuery = {
       ...data,
