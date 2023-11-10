@@ -1,7 +1,5 @@
 export interface IQuery {
-    input: {
-        keyword: string,
-    },
+    keyword: string,
     products: IProduct[]
 }
 

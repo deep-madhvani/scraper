@@ -27,18 +27,22 @@ export async function getQuery(req: Request, res: Response): Promise<Response> {
   }
 
   try {
-    const data = await mongo.find<IQuery>({ keyword });
+
+    const query = { 'input.keyword': { $type: "string" } };
+
+
+    const data = await mongo.find({ query });
     if (!data) {
       return res.status(200).json({ success: false });
     }
 
-    competitors.forEach((competitor) => {
-      const competitorProducts = data.products.filter((product) => {
-        return product.competitor.toLowerCase() === competitor;
-      }).slice(0, Number(top) || 10);
+    // competitors.forEach((competitor) => {
+    //   const competitorProducts = data.products.filter((product) => {
+    //     return product.competitor.toLowerCase() === competitor;
+    //   }).slice(0, Number(top) || 10);
 
-      truncatedProducts.push(...competitorProducts);
-    });
+    //   truncatedProducts.push(...competitorProducts);
+    // });
 
     const returnQuery = {
       ...data,
