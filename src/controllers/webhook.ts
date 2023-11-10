@@ -11,7 +11,7 @@ export async function webhook(req: Request, res: Response): Promise<Response> {
   const metadata = { method, body: req.body as IQuery[] };
   const data = req.body as IQuery[];
   // TODO Validate the data?
-
+  console.log("data----", data)
   try {
     const result = await mongo.insert<IQuery>(data[0]);
 
