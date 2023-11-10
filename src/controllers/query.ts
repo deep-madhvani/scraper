@@ -1,21 +1,7 @@
 import { Request, Response } from 'express';
-// import { mongo } from '@src/services/MongoDB';
+import { mongo } from '@src/services/MongoDB';
 import logger from 'jet-logger';
-import { IProduct } from '@src/models';
-import * as jsonData from '../data/data.json'
-
-interface UserData {
-  products: any;
-  input: any;
-}
-
-// Assuming jsonData is an array and you want the first element
-const firstUserData = jsonData[0];
-
-const SampleData: UserData = {
-  products: firstUserData.products,
-  input: firstUserData.input || {} // Provide a default empty object if input is missing
-};
+import { IQuery, IProduct } from '@src/models';
 
 enum Competitors {
   AMAZON = "amazon",
@@ -41,9 +27,7 @@ export async function getQuery(req: Request, res: Response): Promise<Response> {
   }
 
   try {
-    // console.log(mongo.find)
-    const data = SampleData;
-    // const data = await mongo.find<IQuery>({ keyword });
+    const data = await mongo.find<IQuery>({ keyword });
     if (!data) {
       return res.status(200).json({ success: false });
     }
