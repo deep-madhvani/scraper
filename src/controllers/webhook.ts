@@ -1,17 +1,24 @@
 import logger from 'jet-logger';
 import { Request, Response } from 'express';
 import { mongo } from '@src/services';
-import { IQuery } from '@src/models';
+import { INQuery, IQuery } from '@src/models';
 /**
  * Receive webhook from Bright Data collector and insert the Query into Mongo
  */
 export async function webhook(req: Request, res: Response): Promise<Response> {
   const method = "brightData.webhook";
-  const metadata = { method, body: req.body as IQuery[] };
-  var data = req.body as IQuery[];
-  console.log("Data = ", data)
+  const metadata = { method, body: req.body as INQuery[] };
+  var data = req.body as INQuery[];
+  
+  var Finaldata = [{
+    keyword: data[0].input.keyword,
+    products: data[0].products
+  }]
+
+  console.log("Finaldata = ", Finaldata)
+
   try {
-    const result = await mongo.insert<IQuery>(data[0]);
+    const result = await mongo.insert<IQuery>(Finaldata[0]);
 
     if (!result.success) {
       logger.err({ message: "Failed to insert products into Mongo", ...{ result, metadata } }, true);

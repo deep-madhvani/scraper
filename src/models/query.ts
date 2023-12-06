@@ -3,6 +3,13 @@ export interface IQuery {
     products: IProduct[]
 }
 
+export interface INQuery {
+    input: {
+        keyword: string
+    },
+    products: IProduct[]
+}
+
 export interface IProduct {
     title: string,
     url: string,
