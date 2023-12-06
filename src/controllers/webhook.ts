@@ -14,9 +14,7 @@ export async function webhook(req: Request, res: Response): Promise<Response> {
     keyword: data[0].input.keyword,
     products: data[0].products
   }]
-
-  console.log("Finaldata = ", Finaldata)
-
+  
   try {
     const result = await mongo.insert<IQuery>(Finaldata[0]);
 
