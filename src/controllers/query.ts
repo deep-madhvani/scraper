@@ -19,15 +19,15 @@ export async function getQuery(req: Request, res: Response): Promise<Response> {
   const metadata = { method, queryParam: req.query as { keyword: string, top?: string } };
   const { keyword, top } = req.query as { keyword: string, top?: string };
   const truncatedProducts: IProduct[] = [];
-
+  
   if (!keyword) {
     const message = "No keyword provided";
     logger.err({ message, ...{ metadata } }, true);
     return res.status(400).json({ success: false, errorMessage: message });
   }
-
+  
   try {
-
+    
     const data = await mongo.find<IQuery>({ keyword });
     if (!data) {
       return res.status(200).json({ success: false });
