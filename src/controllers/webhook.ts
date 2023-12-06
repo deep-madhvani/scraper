@@ -9,7 +9,7 @@ export async function webhook(req: Request, res: Response): Promise<Response> {
   const method = "brightData.webhook";
   const metadata = { method, body: req.body as IQuery[] };
   var data = req.body as IQuery[];
-  console.log(data)
+  console.log("Data = ", data)
   try {
     const result = await mongo.insert<IQuery>(data[0]);
 
